@@ -1,6 +1,6 @@
 from helpers import loadFile
 
-input = (loadFile(__file__))
+input = loadFile(__file__)
 
 result = 0
 

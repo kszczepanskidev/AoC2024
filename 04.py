@@ -1,6 +1,6 @@
 from helpers import loadFile
 
-input = (loadFile(__file__))
+input = loadFile(__file__)
 
 def count_occurrences(rows):
     count = 0
